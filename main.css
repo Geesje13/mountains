@@ -1,0 +1,151 @@
+ header{
+    background-color: #6495ED;
+    opacity: 0.85;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 80px;
+    border-radius: 10px;
+    padding: 12px;
+ }
+
+ #nav{
+    text-align: center;
+ }
+
+body{
+    background-color:#E5E4E2;
+    align-content: center;
+    }
+
+li{
+    display: inline-block;
+    height: 22px;
+    width: 250px;
+    padding: 12px;
+    border-radius: 6%;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #FF5733;
+    opacity: 0.9;
+    color: white;
+    }
+
+li:hover{
+    background-color: lightcyan;
+    border-style: none;
+}
+
+p{
+    background-color:#87CEEB;
+    opacity: 0.9;
+    font-family:'Courier New', Courier, monospace;
+    width: 1000px;
+    border-radius: 10px;
+    padding-top: 16px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ img{
+    width: 540px;
+    height: 540px;
+ }
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ footer{
+    background-color: #6495ED ;
+    opacity:0.85;
+    font-family:'Courier New', Courier, monospace;
+    width: 1000px;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contactformulier{
+    background-color:#87CEEB ;
+    opacity: 0.9;
+    width: 1000px;
+    border-radius: 10px;
+    padding-top: 16px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+textarea{
+    height: 400px;
+    width: 800px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+input::placeholder{
+    font-family:'Courier New', Courier, monospace;
+}
+
+button{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.form-center{
+    text-align: center;
+}
+
+.form-field{
+    width: 600px;
+}
+
+button:active{
+    background-color: darkcyan;
+    color: black;
+}
+
+table{
+    background-color:#87CEEB;
+    opacity: 0.9;
+    width: 1000px;
+    table-layout: fixed;
+    border-radius: 10px;
+    padding-top: 16px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Courier New', Courier, monospace;
+}
+th.a{
+    width:30%
+}
+
+th.b{
+    width:10%
+}
+
+th, td{
+    text-align:left;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+
+
+
+
